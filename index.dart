@@ -1,4 +1,4 @@
 main(){
-  String nome = "Marcos";
+  int ano = 2025;
   int idade = 39;
 }
